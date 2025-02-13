@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hi! My name is Aditya, but you can call me Adi. I'm currently pursuing a BSE in bioengineering and computer science and an MSE in robotics at the University of Pennsylvania. I'm excited about leveraging deep learning to better understand human biological systems -- like neurotech!
+Hi! My name is Aditya, but you can call me Adi. I'm currently pursuing a BSE in bioengineering and computer science and an MSE in robotics at the University of Pennsylvania. I'm excited about leveraging deep learning to better understand human biological systems.
 
 ## Current Work
 
