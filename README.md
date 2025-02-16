@@ -7,7 +7,7 @@ Hi! My name is Aditya, but you can call me Adi. I'm currently pursuing a BSE in 
 
 ## Current Work
 
-I'm currently an undergraduate researcher at the Center for Neuroengineering and Therapeutics at UPenn working on applying network neuroscience to epilepsy.
+I'm currently a neuroimaging researcher at the Center for Neuroengineering and Therapeutics at UPenn working on applying network neuroscience to epilepsy.
 
 ## Looking to Work In
 
